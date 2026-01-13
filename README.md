@@ -36,7 +36,7 @@ Since this project contains a 33MB application file, you can download the latest
     ```bash
     cd Mandelpro-by-prasad
     ```
-3.  Run the application file (or install the APK if on Android).
+3.  Run the code file or build the app (or install the APK if on Android).
 
 ## 🧮 How it Works
 
