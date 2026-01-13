@@ -18,12 +18,6 @@ Sorry for the code file. As this project is done from the android the upload lim
 * **Custom Color Palettes:** Dynamic mapping of iteration counts to vibrant colors.
 * **Optimized Performance:** Efficient calculation algorithms for mobile and desktop environments.
 
-## 📸 Screenshots
-
-| Deep Zoom | Color Variation |
-| :--- | :--- |
-| ![Zoom Example](https://via.placeholder.com/400x300?text=Mandelpro+Zoom) | ![Color Example](https://via.placeholder.com/400x300?text=Mandelpro+Colors) |
-
 ## 🛠️ Installation
 
 Since this project contains a 33MB application file, you can download the latest version directly from the repository.
